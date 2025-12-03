@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441209127518",
+    "project_id": "daralmethak",
+    "storage_bucket": "daralmethak.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441209127518:android:017601413de9b59905eacf",
+        "android_client_info": {
+          "package_name": "com.example.daralmethak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF5j_nC262dWkaqGauwtW-i4zQgQg4zMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
